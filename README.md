@@ -1,4 +1,4 @@
-#Send_Email_via_Google_Sheet
+# Send_Email_via_Google_Sheet
 
 
 Use this script to send bulk emails saved on a google sheet file using Google sheet Extension. 
